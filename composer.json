@@ -1,0 +1,17 @@
+{
+  "autoload": {
+    "psr-4": {
+      "test\\": [
+        "./"
+      ],
+      "test\\app\\libs\\mathCalculations\\": [
+        "./app/libs/mathCalculations/",
+        "./app/libs/mathCalculations/methods"
+      ],
+      "test\\app\\libs\\loggers\\": [
+        "./app/libs/loggers/",
+        "./app/libs/loggers/providers"
+      ]
+    }
+  }
+}
