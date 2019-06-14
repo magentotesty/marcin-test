@@ -26,7 +26,7 @@ Aplikacja jest otwartana na rozszerzenia.  Można również napisać do niej tes
 * Calculate - forma DataTables, gdzie:  
     * Przycisk **'Calculate'** - oblicza maksymalną średnią prędkość na godzinę dla wybranej trasy.  
 	Pod tabelą przedstawione zostają szczegóły dotyczące wykonywanych obliczeń (parametry) oraz wynik. 
-    * Przycisk **'Delete'** -  usuwama wybraną podróż (rekordy) z bazy danych. 
+    * Przycisk **'Delete'** -  usuwa wybraną podróż (rekordy) z bazy danych. 
 
 
 ## Wygląd programu: 
@@ -35,17 +35,17 @@ Aplikacja jest otwartana na rozszerzenia.  Można również napisać do niej tes
 
 ![Home](https://user-images.githubusercontent.com/48167156/59503738-7bd5d180-8ea1-11e9-918d-3e69070d6d0c.jpg)
 
-* Add Trip
+* Add Trip:
 
 
 ![AddTrip](https://user-images.githubusercontent.com/48167156/59503804-a32c9e80-8ea1-11e9-800e-07d4f268d9b8.jpg)
 
-* Calculate Trip
+* Calculate Trip:
 
 
 ![CalculateTrip](https://user-images.githubusercontent.com/48167156/59503811-a889e900-8ea1-11e9-8eea-a1ea0998b7c6.jpg)
 
-* Calculate Trip
+* Calculate Trip - obliczenia:
 
 
 ![CalculateTrip2](https://user-images.githubusercontent.com/48167156/59503817-ac1d7000-8ea1-11e9-921d-3a9275e18444.jpg)
